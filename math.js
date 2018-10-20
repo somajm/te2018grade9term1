@@ -48,7 +48,7 @@ let powerDividedBy4 = (power/4)
 console.log(powerDividedBy4);
 
 // Print the quotient.
-
+console.log(powerDividedBy4);
 
 // **** Problem 6 ****
 // Store the remainder of the quotient divided by 2 in a variable.
